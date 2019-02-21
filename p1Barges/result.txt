@@ -1,0 +1,105 @@
+Final Status and Coords
+
+ Ogopogo Status 
+ Functional: No
+ Sinking:    Yes
+ Hull Points:0
+ Starting HP:25
+
+ Coordinates: 
+ (Y) 111: Down river
+ (X)   4: Across river
+ (Z)   2: in the river
+
+ Damage Cost:
+ Barge Damage:       $  25000
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Final Status and Coords
+
+ Cap'n Luke Status 
+ Functional: Yes
+ Sinking:    No
+ Hull Points:63
+ Starting HP:100
+
+ Coordinates: 
+ (Y) 200: Down river
+ (X)  11: Across river
+ (Z)   0: in the river
+
+ Damage Cost:
+ Barge Damage:       $  37000
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Final Status and Coords
+
+ Frank's Floating Fish Flat Status 
+ Functional: No
+ Sinking:    Yes
+ Hull Points:0
+ Starting HP:60
+
+ Coordinates: 
+ (Y)  63: Down river
+ (X)   8: Across river
+ (Z)   2: in the river
+
+ Damage Cost:
+ Barge Damage:       $  60000
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Final Status and Coords
+
+ HMS Guise Status 
+ Functional: No
+ Sinking:    Yes
+ Hull Points:0
+ Starting HP:6
+
+ Coordinates: 
+ (Y)  51: Down river
+ (X)   4: Across river
+ (Z)   2: in the river
+
+ Damage Cost:
+ Barge Damage:       $   6000
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Final Status and Coords
+
+ Nessie Status 
+ Functional: No
+ Sinking:    Yes
+ Hull Points:0
+ Starting HP:70
+
+ Coordinates: 
+ (Y) 123: Down river
+ (X)  11: Across river
+ (Z)   2: in the river
+
+ Damage Cost:
+ Barge Damage:       $  70000
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Final Status and Coords
+
+ Yellow February Status 
+ Functional: Yes
+ Sinking:    No
+ Hull Points:31
+ Starting HP:60
+
+ Coordinates: 
+ (Y) 200: Down river
+ (X)   3: Across river
+ (Z)   0: in the river
+
+ Damage Cost:
+ Barge Damage:       $  29000
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Total Barge Damage: $ 227000
+ Suface Damage:      $1300000
+ Total Cost:         $1527000

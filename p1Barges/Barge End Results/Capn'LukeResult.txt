@@ -1,0 +1,4 @@
+Final Coords and Status
+Barge Damage:  $20000
+Suface Damage: $200000
+Total Cost:    $220000
