@@ -6,7 +6,7 @@ Article: https://www.lohud.com/story/news/local/westchester/2018/03/02/barges-sp
 - Barges must survive through obstacles and the banks or they loose health
 - Each boat has an assigned starting position, cost, name, health
 - River & Barges data are from input files
-- if the barge is less than half health it starts sinking
+- If the barge is less than half health it starts sinking
 - The damage cost is also calculated
-  - each ship's lost health * the hullcost + the ship cost (per ship)
+  - Each ship's lost health * the hullcost + the ship cost (per ship)
   
